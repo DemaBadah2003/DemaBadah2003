@@ -6,7 +6,7 @@ Hi, I'm ✨ Dema Badah ✨,Frontend Developer, Computer Engineering Graduate, Al
 
 </div>
 
-* 🌱 I'm currently exploring Laravel, Next.js, and Frontend development
+* 🌱 I'm currently exploring React, Next.js, and Frontend development
 * 📫 How to reach me: demabadah4@gmail.com
   
 ## Techniques & Tools
