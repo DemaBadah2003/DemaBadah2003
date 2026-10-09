@@ -2,11 +2,11 @@
 
 # Dema Badah 👋
 
-Hi, I'm ✨ Dema Badah ✨, Full-Stack Developer, Computer Engineering Graduate, Always Learning New Things
+Hi, I'm ✨ Dema Badah ✨,Frontend Developer, Computer Engineering Graduate, Always Learning New Things
 
 </div>
 
-* 🌱 I'm currently exploring Laravel, Next.js, and Full-Stack development
+* 🌱 I'm currently exploring Laravel, Next.js, and Frontend development
 * 📫 How to reach me: demabadah4@gmail.com
   
 ## Techniques & Tools
